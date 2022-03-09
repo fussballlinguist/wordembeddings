@@ -1,5 +1,5 @@
 # wordembeddings
 
-Mit diesem Jupyter Notebook können Word Embeddings (Word2Vec) mit der freien Bibliothek gensim berechnet und anschließend geclustert werden.
+Two Jupyter Notebooks (English and German) for calculation and clustering word embeddings (Word2Vec) with the open library gensim.
 
-November 2021, Simon Meier-Vieracker, simon.meier-vieracker@tu-dresden.de
+March 2022, Simon Meier-Vieracker, simon.meier-vieracker@tu-dresden.de
